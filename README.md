@@ -25,7 +25,7 @@ A linear, narrative-driven sci-fi laboratory game about researching and curing "
 
 - [`docs/LORE.md`](docs/LORE.md) — premise, Vaelith, and military deception
 - [`docs/CHARACTERS.md`](docs/CHARACTERS.md) — Elara, Lucien, and the unnamed witness
-- [`docs/CAMPAIGN.md`](docs/CAMPAIGN.md) — the ten-case structure
+- [Immune Cells](docs/Immune-Cells.md) — the ten-case structure
 - [Attributes & Molecules](docs/Attributes-&-Molecules.md) — all attribute families and proposed counteracting molecules
 - [`docs/GAMEPLAY_LOOP.md`](docs/GAMEPLAY_LOOP.md) — research, synthesis, testing, and progression
 - [`docs/MACHINES_AND_UPGRADES.md`](docs/MACHINES_AND_UPGRADES.md) — machine responsibilities and upgrade rules
