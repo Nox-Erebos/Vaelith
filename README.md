@@ -29,6 +29,4 @@ A linear, narrative-driven sci-fi laboratory game about researching and curing "
 - [Attributes & Molecules](docs/Attributes-&-Molecules.md) — all attribute families and proposed counteracting molecules
 - [`docs/GAMEPLAY_LOOP.md`](docs/GAMEPLAY_LOOP.md) — research, synthesis, testing, and progression
 - [`docs/MACHINES_AND_UPGRADES.md`](docs/MACHINES_AND_UPGRADES.md) — machine responsibilities and upgrade rules
-- [`docs/SAVE_DATA.md`](docs/SAVE_DATA.md) — compound inventory, catalogue, and research knowledge
 - [`docs/ENDING_AND_RECORDING.md`](docs/ENDING_AND_RECORDING.md) — final reveal and recording concept
-- [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md) — decisions that are not settled yet
