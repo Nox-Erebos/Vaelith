@@ -1,21 +1,16 @@
 # Attribute Families and Counteracting Molecules
 
-This document records the current attribute framework and a proposed naming set for the fictional molecules that counteract each attribute.
-
 > **Important:** The player is not given a solution reference table. The player must test different molecules on different diseases to find out which molecules counteract which attributes.
 
 ## Core rules
 
-- There are exactly four attribute families.
-- Families I, II, and III each contain three attributes.
-- Family IV contains five possible attributes.
 - Attributes are binary: present or absent. They have no numerical values.
 - Every attribute has a corresponding counteracting fictional molecule.
 - A disease/immune-cell profile determines the molecule set needed for a cure.
 - The cure must be an **exact match**: no missing molecules and no extra molecules.
-- Order does not matter. Duplicate molecule entries should be removed.
-- The player discovers attribute-to-molecule relationships experimentally. No solutions are displayed in a player-facing reference table.
-- Family IV is intended to be especially difficult to research.
+- Order does matter. Duplicate molecule entries should be removed.
+- The player discovers attribute-to-molecule relationships experimentally. Once a molecule is discovered to counteract an attribute, it shows up in the attribute-to-molecule relationship table.
+- Discovered compounds will not be saved.
 
 ## Family I — Structural Properties
 
