@@ -1,4 +1,4 @@
-# Core Gameplay Loop
+# Core Gameplay
 
 ## Intended loop
 
@@ -22,5 +22,4 @@ A candidate cure succeeds only when its molecule set is identical to the require
 
 - Missing molecule: failure.
 - Extra molecule: failure.
-- Correct molecules in a different order: success.
-- Duplicate entries: treated as one molecule, not as additional quantities.
+- Correct molecules in a different order: failure.
