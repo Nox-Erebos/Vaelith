@@ -14,13 +14,7 @@
 
 The player must discover the counteracting molecule for each attribute. There is no in-game table that simply lists the answers.
 
-The first three families are not automatically solved for the player; their solutions are also learned through experimentation. Family IV is especially difficult.
-
-The exact experiment interface and feedback rules have not yet been finalized. The system should be understandable and fair:
-- Experiments should produce useful information.
-- Failed attempts should not create an unwinnable state.
-- The player should be able to record or revisit discoveries.
-- The final family should be challenging without becoming an arbitrary combinatorial grind.
+The first three families are not automatically solved for the player; their solutions are also learned through experimentation.
 
 ## Exact-match cure rule
 
@@ -30,7 +24,3 @@ A candidate cure succeeds only when its molecule set is identical to the require
 - Extra molecule: failure.
 - Correct molecules in a different order: success.
 - Duplicate entries: treated as one molecule, not as additional quantities.
-
-## Scope guardrails
-
-Do not add extra simulation layers unless they materially improve the core loop. Numerical attribute strengths, real chemistry, temperature/pressure simulation, compound durability, multiple currencies, and large resource trees are not part of the current design.
