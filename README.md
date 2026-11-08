@@ -1,6 +1,6 @@
 # Vaelith
 
-A finite, narrative-driven sci-fi laboratory game about research, discovery, and the consequences of work done in good faith.
+A linear, narrative-driven sci-fi laboratory game about researching and curing "diseases" (*wink* *wink*).
 
 > **Core premise:** The player believes she is developing cures to help people. In reality, the compounds she creates are being used by her nation's military to dismantle the immune defenses of an ancient alien species: the Vaelith.
 
