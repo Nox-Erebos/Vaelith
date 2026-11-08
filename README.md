@@ -2,9 +2,7 @@
 
 A linear, narrative-driven sci-fi laboratory game about researching and curing "diseases" (*wink* *wink*).
 
-> **Core premise:** The player believes she is developing cures to help people. In reality, the compounds she creates are being used by her nation's military to dismantle the immune defenses of an ancient alien species: the Vaelith.
-
-This repository is the current game-design reference. It is intentionally written as Markdown so it can be committed to GitHub and revised as the project develops.
+> **Core premise:** The player is tasked with developing cures for 10 newly discovered diseases that have caused mass deaths across her nation. But in reality, here "cures" were biological weapons used to dismantle the Vaelith's immune system.
 
 ## Current canon at a glance
 
