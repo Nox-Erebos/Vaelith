@@ -23,10 +23,11 @@ A linear, narrative-driven sci-fi laboratory game about researching and curing "
 
 ## Repository map
 
+- [Update Log](Update-Log.md) - details the changes made to Project Vaelith
 - [`docs/LORE.md`](docs/LORE.md) — premise, Vaelith, and military deception
 - [Characters](docs/Characters.md) — Elara, Lucien, and the unnamed witness
 - [Immune Cells](docs/Immune-Cells.md) — the ten-case structure
 - [Attributes & Molecules](docs/Attributes-&-Molecules.md) — all attribute families and proposed counteracting molecules
 - [`docs/GAMEPLAY_LOOP.md`](docs/GAMEPLAY_LOOP.md) — research, synthesis, testing, and progression
 - [`docs/MACHINES_AND_UPGRADES.md`](docs/MACHINES_AND_UPGRADES.md) — machine responsibilities and upgrade rules
-- [`docs/ENDING_AND_RECORDING.md`](docs/ENDING_AND_RECORDING.md) — final reveal and recording concept
+- [Ending](docs/Ending.md) — final reveal and recording concept
