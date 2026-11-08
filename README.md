@@ -36,7 +36,7 @@ This repository is the current game-design reference. It is intentionally writte
 - [`docs/LORE.md`](docs/LORE.md) — premise, Vaelith, and military deception
 - [`docs/CHARACTERS.md`](docs/CHARACTERS.md) — Elara, Lucien, and the unnamed witness
 - [`docs/CAMPAIGN.md`](docs/CAMPAIGN.md) — the ten-case structure
-- [`docs/ATTRIBUTES_AND_MOLECULES.md`](docs/ATTRIBUTES_AND_MOLECULES.md) — all attribute families and proposed counteracting molecules
+- [**Attributes & Molecules**](docs/Attributes-&-Molecules.md) — all attribute families and proposed counteracting molecules
 - [`docs/GAMEPLAY_LOOP.md`](docs/GAMEPLAY_LOOP.md) — research, synthesis, testing, and progression
 - [`docs/MACHINES_AND_UPGRADES.md`](docs/MACHINES_AND_UPGRADES.md) — machine responsibilities and upgrade rules
 - [`docs/SAVE_DATA.md`](docs/SAVE_DATA.md) — compound inventory, catalogue, and research knowledge
