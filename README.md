@@ -12,11 +12,11 @@ A linear, narrative-driven sci-fi laboratory game about researching and curing "
 | Protagonist | **Dr. Elara Voss**, female researcher |
 | Commander | **Dr. Lucien Veyr** |
 | Alien witness | A Vaelith woman who remains **unnamed** |
-| Campaign | 10 cases: 3 + 3 + 3 + 1 |
+| Campaign | 10 cases |
 | Attribute families | 4 |
 | Attributes in Families I–III | 3 per family |
 | Family IV | 5 possible attributes; final case has 1 |
-| Attribute values | None; attributes are present or absent |
+| Attribute values | true or false |
 | Cure rule | Exact molecule-set match |
 | Machines | Molecular Microscope, Molecular Fabricator, Bioassay Simulator |
 | Ending | The military purpose of the research is revealed |
