@@ -1,4 +1,4 @@
-# Ending and the Recording
+# Ending
 
 ## The reveal
 
