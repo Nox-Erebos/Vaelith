@@ -1,4 +1,4 @@
-# Lore and Premise
+# Lore 
 
 ## The central premise
 
@@ -10,9 +10,7 @@ The truth is that the so-called diseases are components of the Vaelith immune sy
 
 ## The Vaelith
 
-The Vaelith should feel ancient, mysterious, and biologically unfamiliar. They are not simply monsters or an invading enemy. Their immune system is acting naturally to preserve their species.
-
-The player initially encounters only medical descriptions and case identifiers. The true identity and purpose of the structures being studied are concealed.
+The Vaelith are ancient and mysterious creatures. These creatures possess a biological weapon that the Elarion Empire deems a threat to their survival.
 
 ## The military operation
 
@@ -23,14 +21,3 @@ The deception should be believable within the game world:
 - The systems present her work as treatment development.
 - The military controls the information she receives.
 - Lucien uses professional, controlled language rather than behaving like an exaggerated villain.
-
-## The intended emotional effect
-
-The player should not feel that Elara was foolish or secretly complicit. She did what she believed was right with the information available to her.
-
-The tragedy is the contrast between:
-- Elara's sincere desire to save lives;
-- Lucien's deliberate manipulation and military priorities;
-- the Vaelith's suffering, represented by the unnamed witness.
-
-The player should gradually understand that the language of treatment and progress has concealed an atrocity.
