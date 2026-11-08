@@ -8,7 +8,7 @@
   - Designed and created the entirety of Vaelith's map.
   - Added a skybox to Vaelith's map.
 
-### | Friday, 7 Nov 2026: 2 hours
+### | Saturday, 7 Nov 2026: 2 hours
   - Defined Vaelith's core concept and ending.
   - Defined Vaelith's Lore.
   - Fed predefined information into ChatGPT and instructed the chatbot to come up with names for the different attributes.
