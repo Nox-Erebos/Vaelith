@@ -1,5 +1,9 @@
 # Update Log
 
+### | Tuesday, 10 Nov 2026: 1 hour
+  - Created First Person Character
+  - Created a script to disable the cursor and position it at the center of the screen
+
 ### | Sunday, 8 Nov 2026: 7 hours
   - Imported the pre-generated repository into GitHub.
   - Altered GitHub files that ChatGPT created and filtered for errors in generation.
