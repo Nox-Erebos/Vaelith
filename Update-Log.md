@@ -1,5 +1,13 @@
 # Update Log
 
+### | Wednesday, 11 Nov 2026: 1 hour
+  - Added sprinting
+  - Modified Creepycat's script to work with OnTriggerEnter and OnTriggerExit, with activation checking for pressing the F key when the player is inside the collider.
+      - Modified script WindowOpen -> WindowOpenVaelith
+      - Modified script SmallDoorOpen -> SmallDoorOpenVaelith
+      - Modified script DoubleDoorOpen -> DoubleDoorOpenVaelith
+      - Modified script LightSwitch -> LightSwitchVaelith
+
 ### | Tuesday, 10 Nov 2026: 1 hour
   - Created First Person Character
   - Created a script to disable the cursor and position it at the center of the screen
