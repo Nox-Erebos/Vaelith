@@ -3,7 +3,7 @@
 ### | Thursday, 12 Nov 2026: 4 hours
   - Modified the DoubleDoorOpenVaelith script to automatically close the door after 5 seconds.
   - Modified the MousePointerLock script to lock the camera position when the player presses ESC.
-  - Started developing intial save system. (Unfinished **With Bugs See:** [Bug Log](Bug-Log.md))
+  - Started developing intial save system. (Unfinished **Bug#1 :** [Bug Log](Bug-Log.md))
 
 ### | Wednesday, 11 Nov 2026: 1 hour
   - Added sprinting
