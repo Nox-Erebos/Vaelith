@@ -1,8 +1,8 @@
 # Bug Log
 
-## Bug Fix Log: [Save System]
+## Bug Fix Log 1: [Save System]
 
-#### Status: $\color{green}{\text{Fixed}}$
+#### Status: $\color{red}{\text{Pending}}$
 #### System: Save System
 
 ### Discovered
