@@ -1,5 +1,10 @@
 # Update Log
 
+### | Thursday, 12 Nov 2026: 4 hours
+  - Modified the DoubleDoorOpenVaelith script to automatically close the door after 5 seconds.
+  - Modified the MousePointerLock script to lock the camera position when the player presses ESC.
+  - Started developing intial save system. (Unfinished **With Bugs See:** [Bug Log](Bug-Log.md))
+
 ### | Wednesday, 11 Nov 2026: 1 hour
   - Added sprinting
   - Modified Creepycat's script to work with OnTriggerEnter and OnTriggerExit, with activation checking for pressing the F key when the player is inside the collider.
