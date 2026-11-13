@@ -1,9 +1,13 @@
 # Update Log
 
+### | Friday, 13 Nov 2026: 2 hours
+  - Removed old Save System.
+  - Created a new Save System using JSON as the save file. (Encryption not yet done)
+
 ### | Thursday, 12 Nov 2026: 4 hours
   - Modified the DoubleDoorOpenVaelith script to automatically close the door after 5 seconds.
   - Modified the MousePointerLock script to lock the camera position when the player presses ESC.
-  - Started developing intial save system. (Unfinished **Bug#1 :** [Bug Log](Bug-Log.md))
+  - Started developing the initial save system. (Unfinished **Bug#1 :** [Bug Log](Bug-Log.md))
 
 ### | Wednesday, 11 Nov 2026: 1 hour
   - Added sprinting
