@@ -2,14 +2,14 @@
 
 ## Bug Fix Log 1: [Save System]
 
-#### Status: $\color{red}{\text{Pending}}$
+#### Status: $\color{red}{\text{Resolved}}$
 #### System: Save System
 
 ### Discovered
 #### Date: 12-11-2026
 
 ### Resolved
-#### Date: 
+#### Date: 13-11.2026
 
 ---
 
@@ -43,6 +43,6 @@ Data.Update () (at Assets/Scripts/Data.cs:27)
 
 ### Resolution
 
-1. **:** 
+* Removed this version of the save system. After resolving the issue shown by the error log above, more issues arose; due to this, I decided to switch to a simpler system of saving player and game data in JSON format.
 
 ---
