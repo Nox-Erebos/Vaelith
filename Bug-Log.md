@@ -2,7 +2,7 @@
 
 ## Bug Fix Log 1: [Save System]
 
-#### Status: $\color{red}{\text{Resolved}}$
+#### Status: $\color{green}{\text{Resolved}}$
 #### System: Save System
 
 ### Discovered
