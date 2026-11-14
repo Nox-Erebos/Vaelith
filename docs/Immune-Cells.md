@@ -23,15 +23,15 @@ The Immune Cells get harder as the player progresses through each phase towards 
 
 ## Immune-cell identities
 
-| Phase | Imuune Cell Name | Player-facing identifier |
+| Phase | Imuune Cell Name | Player-facing identifier | ID |
 |---|---|---|
-| I | Aelthir | Case 01 |
-| I | Othryss | Case 02 |
-| I | Saevryn | Case 03 |
-| II | Khaelor | Case 04 |
-| II | Vaerith | Case 05 |
-| II | Ithraen | Case 06 |
-| III | Xytheris | Case 07 |
-| III | Oryndral | Case 08 |
-| III | Thalvyr | Case 09 |
-| Final | Aevoryth | Case 10 — Central Immune Cell |
+| I | Aelthir | Case 01 | C_1 |
+| I | Othryss | Case 02 | C_2 |
+| I | Saevryn | Case 03 | C_3 |
+| II | Khaelor | Case 04 | C_4 |
+| II | Vaerith | Case 05 | C_5 |
+| II | Ithraen | Case 06 | C_6 |
+| III | Xytheris | Case 07 | C_7 |
+| III | Oryndral | Case 08 | C_8 |
+| III | Thalvyr | Case 09 | C_9 |
+| Final | Aevoryth | Case 10 — Central Immune Cell | C_10 |
