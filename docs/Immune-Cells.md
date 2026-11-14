@@ -24,7 +24,7 @@ The Immune Cells get harder as the player progresses through each phase towards 
 ## Immune-cell identities
 
 | Phase | Imuune Cell Name | Player-facing identifier | ID |
-|---|---|---|
+|---|---|---|---|
 | I | Aelthir | Case 01 | C_1 |
 | I | Othryss | Case 02 | C_2 |
 | I | Saevryn | Case 03 | C_3 |
