@@ -16,7 +16,7 @@ The player encounters the specimens in a fixed sequence:
 | Phase III | `NX-01`–`NX-03` | Reactive Systems |
 | Final | `AE-01` | Coordinative Systems |
 
-## Phase I — Structural Systems
+## Structural Systems
 
 ### `VY-01`
 
@@ -48,7 +48,7 @@ An interconnected structure composed of elongated internal components. Despite r
 
 The final specimen in the initial research phase. Its resilience raises questions about how the Vaelith immune system responds to sustained damage and whether structural integrity is maintained locally or across connected components.
 
-## Phase II — Energetic Systems
+## Energetic Systems
 
 ### `SY-01`
 
@@ -80,7 +80,7 @@ An unusual structure in which internal energy progressively concentrates within 
 
 This specimen displays the most pronounced energy concentration observed during the second phase. Its behavior suggests that energy distribution may be connected to the activity of other immune components, although the available evidence remains inconclusive.
 
-## Phase III — Reactive Systems
+## Reactive Systems
 
 ### `NX-01`
 
@@ -112,7 +112,7 @@ A structure demonstrating increasingly strong interactions between its internal 
 
 The final specimen before the central structure. Researchers increasingly suspect that the observed immune components are not independent defensive units, but parts of a coordinated system whose operation is not yet understood.
 
-## Final specimen — Coordinative Systems
+## Coordinative System
 
 ### `AE-01`
 
