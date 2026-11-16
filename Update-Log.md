@@ -1,5 +1,12 @@
 # Update Log
 
+### | Sunday, 15 Nov 2026: 1 hour
+  - Generalized the random attribute generation system
+  - Revised Gameplay sequence and curing system
+
+### | Saturday, 14 Nov 2026: 5 hours
+  - Created a random attribute generation system
+
 ### | Friday, 13 Nov 2026: 2 hours
   - Removed old Save System.
   - Created a new Save System using JSON as the save file. (Encryption not yet done)
